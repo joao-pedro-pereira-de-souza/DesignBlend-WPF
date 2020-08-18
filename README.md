@@ -29,5 +29,10 @@ os arquivos das aulas vão ser só o exe.
 🔗 Link - https://www.youtube.com/watch?v=9YbimKI32Wk&t=2s
 
 
+## Tela Chart 📊 
+
+![Template Chart](https://github.com/joaopedro29/DesignBlend-WPF/blob/master/Imagens-Gifs%20Read/TemplateChart.gif)
+
+
 
 
