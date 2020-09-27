@@ -1,0 +1,15 @@
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\bin\Debug\LoginAnimCadastro.exe.config
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\bin\Debug\LoginAnimCadastro.exe
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\bin\Debug\LoginAnimCadastro.pdb
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro.csprojAssemblyReference.cache
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\MainWindow.g.cs
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\App.g.cs
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro_MarkupCompile.cache
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro_MarkupCompile.lref
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\MainWindow.baml
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro.g.resources
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro.Properties.Resources.resources
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro.csproj.GenerateResource.cache
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro.exe
+C:\Users\JOÃO\OneDrive\Área de Trabalho\Design\WPF\Blend\LoginAnimCadastro\LoginAnimCadastro\obj\Debug\LoginAnimCadastro.pdb
